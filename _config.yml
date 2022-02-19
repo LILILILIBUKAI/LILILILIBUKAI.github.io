@@ -1,18 +1,18 @@
 # Site settings
-title: LUBK的空间
-SEOTitle: hello
+title: lubk
+SEOTitle: lubk的空间
 header-img: img/post-bg-desk.jpg
-email: LANGXINYU@mail.nwpu.edu.cn
-description: "LUBK的工作与生活"
-# keyword: "学术研究, CFD, 摄影"
-url: "https://lilililibukai.github.io"          # your host, for absolute URL
+email: klovien@gmail.com
+description: "专注学术，爱好摄影"
+keyword: "研究，CFD，摄影"
+url: "https://LILILILIBUKAI.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LILILILIBUKAI/LILILILIBUKAI.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: https://lilililibukai.github.io/    #仓库名称
-  owner: LILILILIBUKAI
-  admin: LILILILIBUKAI
+  repo: klovien.github.io    #仓库名称
+  owner: klovien    #github用户名
+  admin: klovien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,11 +99,6 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-    title: "我的研究",
-        href: "https://www.researchgate.net/profile/Lang-Xinyu"
-    title: "我的知乎",
-        href: "https://www.zhihu.com/people/lang-xin-yu-77"
-        
         title: "星球国际语",
         href: "https://globien.gitee.io"
     },{
