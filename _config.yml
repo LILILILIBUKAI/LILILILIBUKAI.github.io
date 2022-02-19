@@ -3,9 +3,9 @@ title: LUBK
 SEOTitle: hello
 header-img: img/post-bg-desk.jpg
 email: LANGXINYU@mail.nwpu.edu.cn
- description: "LUBK的工作与生活"
-# eyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://lilililibukai.github.io/"          # your host, for absolute URL
+description: "LUBK的工作与生活"
+# keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+url: "https://lilililibukai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LILILILIBUKAI/LILILILIBUKAI.github.io.git" # you code repository
 
